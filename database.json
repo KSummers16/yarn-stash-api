@@ -1,0 +1,166 @@
+{
+    "weights": [
+        {
+            "id": 1,
+            "name": "fingering"
+        },
+        {
+            "id": 2,
+            "name": "sport"
+        },
+        {
+            "id": 3,
+            "name": "DK"
+        },
+        {
+            "id": 4,
+            "name": "worsted"
+        },
+        {
+            "id": 5,
+            "name": "chunky"
+        },
+        {
+            "id": 6,
+            "name": "super chunky"
+        },
+        {
+            "id": 7,
+            "name": "jumbo"
+        }
+    ],
+    "companies": [
+        {
+            "id": 1,
+            "name": "Premier"
+        },
+        {
+            "id": 2,
+            "name": "Loops & Threads"
+        },
+        {
+            "id": 3,
+            "name": "I Love This Yarn"
+        },
+        {
+            "id": 4,
+            "name": "Caron"
+        },
+        {
+            "id": 5,
+            "name": "Lion Brand"
+        },
+        {
+            "id": 6,
+            "name": "Bernat"
+        },
+        {
+            "id": 7,
+            "name": "Arcane Fibre"
+        },
+        {
+            "id": 8,
+            "name": "Himalaya Dolphin"
+        }
+    ],
+    "colorFamilies": [
+        {
+            "id": 1,
+            "name": "red"
+        },
+        {
+            "id": 2,
+            "name": "orange"
+        },
+        {
+            "id": 3,
+            "name": "yellow"
+        },
+        {
+            "id": 4,
+            "name": "green"
+        },
+        {
+            "id": 5,
+            "name": "blue"
+        },
+        {
+            "id": 6,
+            "name": "indigo"
+        },
+        {
+            "id": 7,
+            "name": "violet"
+        },
+        {
+            "id": 8,
+            "name": "white"
+        },
+        {
+            "id": 9,
+            "name": "brown"
+        },
+        {
+            "id": 10,
+            "name": "black"
+        },
+        {
+            "id": 11,
+            "name": "grey"
+        },
+        {
+            "id": 12,
+            "name": "multicolor"
+        }
+    ],
+    "yarns": [
+        {
+            "id": 1,
+            "weightId": 4,
+            "companyId": 2,
+            "name": "Impeccable",
+            "colorFamilyId": 5,
+            "color": "clear blue",
+            "userId": 1,
+            "amount": 1
+        },
+        {
+            "id": 2,
+            "weightId": 4,
+            "companyId": 2,
+            "name": "Impeccable",
+            "colorFamilyId": 8,
+            "color": "white",
+            "userId": 1,
+            "amount": 1
+        },
+        {
+            "id": 3,
+            "weightId": 4,
+            "companyId": 4,
+            "name": "Cinnamon Swirl Cake",
+            "colorFamilyId": 12,
+            "color": "Tropical Breeze",
+            "userId": 1,
+            "amount": 3
+        },
+        {
+            "id": 4,
+            "weightId": 6,
+            "companyId": 1,
+            "name": "Parfait",
+            "colorFamilyId": 4,
+            "color": "Seaglass",
+            "userId": 1,
+            "amount": 1
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Kim",
+            "email": "kim@example.com"
+        }
+    ]
+    
+}
