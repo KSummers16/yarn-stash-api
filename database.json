@@ -197,6 +197,106 @@
       "amount": 2,
       "userId": 1,
       "id": 8
+    },
+    {
+      "weightId": "6",
+      "companyId": "1",
+      "name": "Parfait",
+      "colorFamilyId": "13",
+      "color": "Bubblegum",
+      "amount": 2,
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "weightId": "6",
+      "companyId": "1",
+      "name": "Parfait",
+      "colorFamilyId": "13",
+      "color": "Ballet Pink",
+      "amount": 1,
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "weightId": "6",
+      "companyId": "1",
+      "name": "Parfait",
+      "colorFamilyId": "8",
+      "color": "Cream",
+      "amount": 1,
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "weightId": "6",
+      "companyId": "1",
+      "name": "Parfait",
+      "colorFamilyId": "5",
+      "color": "Seaside",
+      "amount": 2,
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "weightId": "4",
+      "companyId": "4",
+      "name": "Cinnamon Swirl Cakes",
+      "colorFamilyId": "12",
+      "color": "Maitai",
+      "amount": 1,
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "weightId": "4",
+      "companyId": "7",
+      "name": "Arcane",
+      "colorFamilyId": "12",
+      "color": "Beaches Be Crazy",
+      "amount": 1,
+      "userId": 1,
+      "id": 15
+    },
+    {
+      "weightId": "4",
+      "companyId": "7",
+      "name": "Arcane",
+      "colorFamilyId": "12",
+      "color": "Hues of the Harbor",
+      "amount": 1,
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "weightId": "4",
+      "companyId": "4",
+      "name": "Blossom Cake",
+      "colorFamilyId": "12",
+      "color": "Radiant Rainbow",
+      "amount": 1,
+      "userId": 1,
+      "id": 17
+    },
+    {
+      "weightId": "4",
+      "companyId": "2",
+      "name": "Impeccable",
+      "colorFamilyId": "2",
+      "color": "Pumpkin",
+      "amount": 1,
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "weightId": "4",
+      "companyId": "2",
+      "name": "Impeccable",
+      "colorFamilyId": "3",
+      "color": "Lemon",
+      "amount": 1,
+      "userId": 1,
+      "id": 19
     }
   ],
   "users": [
